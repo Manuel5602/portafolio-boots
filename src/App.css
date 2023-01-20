@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+/*imagenes de redes*/
+.container-redes {
+  width: 40%;
+}
+.img-fluid {
+  width: 16%;
+}
+/*img tools*/
+#img-tools {
+  width: 10%;
+}
+
+#sobre-me {
+  display: block;
+}
